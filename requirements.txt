@@ -1,0 +1,11 @@
+future==1.0.0
+iso8601==2.1.0
+pynput==1.8.1
+pyobjc-core==12.1
+pyobjc-framework-ApplicationServices==12.1
+pyobjc-framework-Cocoa==12.1
+pyobjc-framework-CoreText==12.1
+pyobjc-framework-Quartz==12.1
+pyserial==3.5
+PyYAML==6.0.3
+six==1.17.0
