@@ -10,10 +10,12 @@ BAUD_RATE = 9600                          # Baud rate
 CTS_KEY = 'z'                             # Key to press when CTS is high
 DSR_KEY = 'x'                             # Key to press when DSR is high
 
-# For left Control:
+# Common key bindings
 #CTS_KEY = Key.ctrl_l
-# For right Control:
 #CTS_KEY = Key.ctrl_r
+#DSR_KEY = Key.space
+# See: https://pynput.readthedocs.io/en/latest/keyboard.html#pynput.keyboard.Key
+
 
 POLL_INTERVAL = 0.01                      # Polling interval in seconds (10ms)
 # =========================
